@@ -1,0 +1,538 @@
+Harrow and Wealdstone, Kenton
+Warwick Avenue, Paddington
+Edgware Road (Bakerloo), Marylebone
+Marylebone, Baker Street
+Baker Street, Regents Park
+Regents Park, Oxford Circus
+Oxford Circus, Piccadilly Circus
+Piccadilly Circus, Charing Cross
+Charing Cross, Embankment
+Embankment, Waterloo
+Waterloo, Lambeth North
+Lambeth North, Elephant and Castle
+Maida Vale, Warwick Avenue
+Kilburn Park, Maida Vale
+Kenton, South Kenton
+South Kenton, North Wembley
+North Wembley, Wembley Central
+Wembley Central, Stonebridge Park
+Stonebridge Park, Harlesden
+Paddington, Edgware Road (Bakerloo)
+Harlesden, Willesden Junction
+Willesden Junction, Kensal Green
+Kensal Green, Queens Park
+Queens Park, Kilburn Park
+East Acton, North Acton
+North Acton, West Acton
+West Acton, Ealing Broadway
+North Acton, Hanger Lane
+Hanger Lane, Perivale
+Perivale, Greenford
+Greenford, Northolt
+Northolt, South Ruislip
+South Ruislip, Ruislip Gardens
+Ruislip Gardens, West Ruislip
+Wanstead, Redbridge
+White City, East Acton
+Shepherds Bush, White City
+Holland Park, Shepherds Bush
+Grange Hill, Chigwell
+Hainault, Grange Hill
+Fairlop, Hainault
+Barkingside, Fairlop
+Newbury Park, Barkingside
+Gants Hill, Newbury Park
+Redbridge, Gants Hill
+Leytonstone, Wanstead
+Snaresbrook, Leytonstone
+South Woodford, Snaresbrook
+Woodford, South Woodford
+Buckhurst Hill, Woodford
+Loughton, Buckhurst Hill
+Debden, Loughton
+Theydon Bois, Debden
+Chigwell, Roding Valley
+Leytonstone, Leyton
+Leyton, Stratford
+Notting Hill Gate, Holland Park
+Queensway, Notting Hill Gate
+Lancaster Gate, Queensway
+Marble Arch, Lancaster Gate
+Bond Street, Marble Arch
+Oxford Circus, Bond Street
+Tottenham Court Road, Oxford Circus
+Holborn, Tottenham Court Road
+Chancery Lane, Holborn
+St. Pauls, Chancery Lane
+Bank, St. Pauls
+Liverpool Street, Bank
+Bethnal Green, Liverpool Street
+Mile End, Bethnal Green
+Stratford, Mile End
+Epping, Theydon Bois
+St. James's Park, Victoria
+Westminster, St. James's Park
+Kings Cross St. Pancras, Farringdon
+Euston Square, Kings Cross St. Pancras
+Great Portland Street, Euston Square
+Baker Street, Great Portland Street
+Edgware Road (Circle/District/Hammersmith and City), Baker Street
+Cannon Street, Mansion House
+Mansion House, Blackfriars
+Gloucester Road, High Street Kensington
+High Street Kensington, Notting Hill Gate
+Farringdon, Barbican
+Barbican, Moorgate
+Moorgate, Liverpool Street
+Victoria, Sloane Square
+Sloane Square, South Kensington
+South Kensington, Gloucester Road
+Embankment, Westminster
+Temple, Embankment
+Blackfriars, Temple
+Tower Hill, Monument
+Aldgate, Tower Hill
+Liverpool Street, Aldgate
+Notting Hill Gate, Bayswater
+Bayswater, Paddington
+Westbourne Park, Royal Oak
+Monument, Cannon Street
+Ladbroke Grove, Westbourne Park
+Latimer Road, Ladbroke Grove
+Wood Lane, Latimer Road
+Shepherds Bush Market, Wood Lane
+Goldhawk Road, Shepherds Bush Market
+Royal Oak, Paddington
+Hammersmith (Met.), Goldhawk Road
+Paddington, Edgware Road (Circle/District/Hammersmith and City)
+Ealing Common, Ealing Broadway
+Parsons Green, Putney Bridge
+Fulham Broadway, Parsons Green
+West Brompton, Fulham Broadway
+Earls Court, West Brompton
+Earls Court, Kensington (Olympia)
+Paddington, Edgware Road (Circle/District/Hammersmith and City)
+Bayswater, Paddington
+Notting Hill Gate, Bayswater
+High Street Kensington, Notting Hill Gate
+Earls Court, High Street Kensington
+Gloucester Road, Earls Court
+South Kensington, Gloucester Road
+Sloane Square, South Kensington
+Putney Bridge, East Putney
+East Putney, Southfields
+Acton Town, Ealing Common
+Chiswick Park, Acton Town
+Kew Gardens, Richmond
+Gunnersbury, Kew Gardens
+Turnham Green, Gunnersbury
+Stamford Brook, Turnham Green
+Ravenscourt Park, Stamford Brook
+Hammersmith (District), Ravenscourt Park
+Barons Court, Hammersmith (District)
+West Kensington, Barons Court
+Earls Court, West Kensington
+Wimbledon Park, Wimbledon
+Southfields, Wimbledon Park
+Victoria, Sloane Square
+St. James's Park, Victoria
+Westminster, St. James's Park
+Upton Park, Plaistow
+East Ham, Upton Park
+Barking, East Ham
+Upney, Barking
+Becontree, Upney
+Dagenham Heathway, Becontree
+Dagenham East, Dagenham Heathway
+Elm Park, Dagenham East
+Hornchurch, Elm Park
+Upminster Bridge, Hornchurch
+Upminster, Upminster Bridge
+Turnham Green, Chiswick Park
+Plaistow, West Ham
+West Ham, Bromley-by-Bow
+Bromley-by-Bow, Bow Road
+Embankment, Westminster
+Temple, Embankment
+Blackfriars, Temple
+Mansion House, Blackfriars
+Cannon Street, Mansion House
+Monument, Cannon Street
+Tower Hill, Monument
+Aldgate East, Tower Hill
+Whitechapel, Aldgate East
+Stepney Green, Whitechapel
+Bow Church, Stepney Green
+Bow Road, Bow Church
+London City Airport, King George V
+King George V, Woolwich Arsenal
+Pontoon Dock, London City Airport
+Cyprus, Gallions Reach
+Gallions Reach, Beckton
+Stratford, Stratford High Street
+Devons Road, Langdon Park
+Blackwall, East India
+Abbey Road, West Ham
+West Ham, Star Lane
+Star Lane, Canning Town
+Canning Town, West Silvertown
+West Silvertown, Pontoon Dock
+Custom House, Prince Regent
+Beckton Park, Cyprus
+Royal Albert, Beckton Park
+Elverson Road, Lewisham
+Deptford Bridge, Elverson Road
+Greenwich, Deptford Bridge
+Shadwell, Bank
+Island Gardens, Cutty Sark for Maritime Greenwich
+Mudchute, Island Gardens
+Crossharbour and London Arena, Mudchute
+East India, Canning Town
+Canning Town, Royal Victoria
+Royal Victoria, Custom House
+Prince Regent, Royal Albert
+Stratford High Street, Abbey Road
+Poplar, Blackwall
+Cutty Sark for Maritime Greenwich, Greenwich
+South Quay, Crossharbour and London Arena
+Heron Quays, South Quay
+Canary Wharf, Heron Quays
+West India Quay, Canary Wharf
+Poplar, West India Quay
+Shadwell, Tower Gateway
+Westferry, Limehouse
+Poplar, Westferry
+All Saints, Poplar
+Stratford International, Stratford
+Stratford, Pudding Mill Lane
+Pudding Mill Lane, Bow Church
+Bow Church, Devons Road
+Limehouse, Shadwell
+Langdon Park, All Saints
+Latimer Road, Ladbroke Grove
+Wood Lane, Latimer Road
+Shepherds Bush Market, Wood Lane
+Goldhawk Road, Shepherds Bush Market
+Upton Park, East Ham
+Hammersmith (Met.), Goldhawk Road
+Kings Cross St. Pancras, Farringdon
+Ladbroke Grove, Westbourne Park
+Westbourne Park, Royal Oak
+Royal Oak, Paddington
+Plaistow, Upton Park
+West Ham, Plaistow
+Bromley-by-Bow, West Ham
+Bow Road, Bromley-by-Bow
+Mile End, Bow Road
+Stepney Green, Mile End
+Whitechapel, Stepney Green
+Aldgate East, Whitechapel
+Liverpool Street, Aldgate East
+Moorgate, Liverpool Street
+Barbican, Moorgate
+Farringdon, Barbican
+Euston Square, Kings Cross St. Pancras
+Great Portland Street, Euston Square
+Baker Street, Great Portland Street
+Edgware Road (Circle/District/Hammersmith and City), Baker Street
+Paddington, Edgware Road (Circle/District/Hammersmith and City)
+East Ham, Barking
+Queensbury, Kingsbury
+Westminster, Waterloo
+Southwark, London Bridge
+London Bridge, Bermondsey
+Bermondsey, Canada Water
+Canada Water, Canary Wharf
+Canary Wharf, North Greenwich
+North Greenwich, Canning Town
+Canning Town, West Ham
+West Ham, Stratford
+Canons Park, Queensbury
+Stanmore, Canons Park
+Waterloo, Southwark
+Green Park, Westminster
+Bond Street, Green Park
+Kingsbury, Wembley Park
+Wembley Park, Neasden
+Neasden, Dollis Hill
+Dollis Hill, Willesden Green
+Willesden Green, Kilburn
+Kilburn, West Hampstead
+West Hampstead, Finchley Road
+Finchley Road, Swiss Cottage
+Swiss Cottage, St. Johns Wood
+St. Johns Wood, Baker Street
+Baker Street, Bond Street
+Finchley Road, Wembley Park
+West Harrow, Eastcote
+Chalfont and Latimer, Amersham
+Chorleywood, Chalfont and Latimer
+Chalfont and Latimer, Chesham
+Eastcote, Ruislip Manor
+Ruislip Manor, Ruislip
+Ruislip, Ickenham
+Ickenham, Hillingdon
+Hillingdon, Uxbridge
+Harrow-on-the-Hill, North Harrow
+North Harrow, Pinner
+Pinner, Northwood Hills
+Northwood Hills, Northwood
+Moor Park, Croxley
+Moor Park, Rickmansworth
+Croxley, Watford
+Harrow-on-the-Hill, West Harrow
+Northwick Park, Harrow-on-the-Hill
+Barbican, Farringdon
+Liverpool Street, Moorgate
+Moorgate, Barbican
+Farringdon, Kings Cross St. Pancras
+Kings Cross St. Pancras, Euston Square
+Euston Square, Great Portland Street
+Great Portland Street, Baker Street
+Baker Street, Finchley Road
+Rickmansworth, Chorleywood
+Wembley Park, Preston Road
+Preston Road, Northwick Park
+Aldgate, Liverpool Street
+Northwood, Moor Park
+Hendon Central, Colindale
+Brent Cross, Hendon Central
+Golders Green, Brent Cross
+Hampstead, Golders Green
+Belsize Park, Hampstead
+Chalk Farm, Belsize Park
+Camden Town, Chalk Farm
+Euston, Camden Town
+Mornington Crescent, Camden Town
+Euston, Mornington Crescent
+Warren Street, Euston
+Colindale, Burnt Oak
+Burnt Oak, Edgware
+Totteridge and Whetstone, High Barnet
+Woodside Park, Totteridge and Whetstone
+West Finchley, Woodside Park
+Finchley Central, West Finchley
+East Finchley, Finchley Central
+East Finchley, Mill Hill East
+Highgate, East Finchley
+Archway, Highgate
+Tufnell Park, Archway
+Kentish Town, Tufnell Park
+Camden Town, Kentish Town
+Goodge Street, Warren Street
+Morden, South Wimbledon
+Kennington, Elephant and Castle
+Oval, Kennington
+Stockwell, Oval
+Clapham North, Stockwell
+Clapham Common, Clapham North
+Clapham South, Clapham Common
+Balham, Clapham South
+Tooting Bec, Balham
+Tooting Broadway, Tooting Bec
+Colliers Wood, Tooting Broadway
+South Wimbledon, Colliers Wood
+Elephant and Castle, Borough
+Borough, London Bridge
+Tottenham Court Road, Goodge Street
+Leicester Square, Tottenham Court Road
+Charing Cross, Leicester Square
+Embankment, Charing Cross
+Waterloo, Embankment
+Kennington, Waterloo
+Kings Cross St. Pancras, Euston
+London Bridge, Bank
+Bank, Moorgate
+Moorgate, Old Street
+Old Street, Angel
+Angel, Kings Cross St. Pancras
+Wanstead Park, Woodgrange Park
+Woodgrange Park, Barking
+Highbury and Islington, Canonbury
+Canonbury, Dalston Junction
+Dalston Junction, Haggerston
+Haggerston, Hoxton
+Hoxton, Shoreditch High Street
+Shoreditch High Street, Whitechapel
+Leytonstone High Road, Wanstead Park
+Leyton Midland Road, Leytonstone High Road
+Walthamstow Queens Road, Leyton Midland Road
+West Brompton, Imperial Wharf
+Imperial Wharf, Clapham Junction
+Gospel Oak, Upper Holloway
+Upper Holloway, Crouch Hill
+Crouch Hill, Harringay Green Lanes
+Harringay Green Lanes, South Tottenham
+South Tottenham, Blackhorse Road
+Blackhorse Road, Walthamstow Queens Road
+Whitechapel, Shadwell
+Shadwell, Wapping
+Wapping, Rotherhithe
+Anerley, Norwood Junction
+Norwood Junction, West Croydon
+Sydenham, Crystal Palace
+Surrey Quays, Queens Road Peckham
+Queens Road Peckham, Peckham Rye
+Peckham Rye, Denmark Hill
+Denmark Hill, Clapham High Street
+Clapham High Street, Wandsworth Road
+Penge West, Anerley
+Sydenham, Penge West
+Rotherhithe, Canada Water
+Canada Water, Surrey Quays
+Surrey Quays, New Cross
+Surrey Quays, New Cross Gate
+New Cross Gate, Brockley
+Brockley, Honor Oak Park
+Honor Oak Park, Forest Hill
+Forest Hill, Sydenham
+Wandsworth Road, Clapham Junction
+Watford Junction, Watford High Street
+Harlesden, Willesden Junction
+Willesden Junction, Kensal Green
+Kensal Green, Queens Park
+Queens Park, Kilburn High Road
+Kilburn High Road, South Hampstead
+South Hampstead, Euston
+Richmond, Kew Gardens
+Kew Gardens, Gunnersbury
+Stonebridge Park, Harlesden
+Wembley Central, Stonebridge Park
+North Wembley, Wembley Central
+Watford High Street, Bushey
+Bushey, Carpenders Park
+Carpenders Park, Hatch End
+Hatch End, Headstone Lane
+Headstone Lane, Harrow and Wealdstone
+Harrow and Wealdstone, Kenton
+Kenton, South Kenton
+South Kenton, North Wembley
+Gunnersbury, South Acton
+South Acton, Acton Central
+Caledonian Road and Barnsbury, Highbury and Islington
+Canonbury, Dalston Kingsland
+Dalston Kingsland, Hackney Central
+Hackney Central, Homerton
+Homerton, Hackney Wick
+Hackney Wick, Stratford
+Willesden Junction, Shepherds Bush
+Shepherds Bush, Kensington (Olympia)
+Camden Road, Caledonian Road and Barnsbury
+Kentish Town West, Camden Road
+Gospel Oak, Kentish Town West
+Acton Central, Willesden Junction
+Willesden Junction, Kensal Rise
+Kensal Rise, Brondesbury Park
+Brondesbury Park, Brondesbury
+Brondesbury, West Hampstead
+West Hampstead, Finchley Road and Frognal
+Finchley Road and Frognal, Hampstead Heath
+Hampstead Heath, Gospel Oak
+Kensington (Olympia), West Brompton
+South Harrow, Sudbury Hill
+South Harrow, Rayners Lane
+Turnpike Lane, Manor House
+Manor House, Finsbury Park
+Finsbury Park, Arsenal
+Knightsbridge, South Kensington
+Arsenal, Holloway Road
+Wood Green, Turnpike Lane
+Bounds Green, Wood Green
+Arnos Grove, Bounds Green
+Southgate, Arnos Grove
+Oakwood, Southgate
+Cockfosters, Oakwood
+Earls Court, Barons Court
+Holloway Road, Caledonian Road
+Caledonian Road, Kings Cross St. Pancras
+Hillingdon, Uxbridge
+Hatton Cross, Heathrow Terminal 4
+Hatton Cross, Heathrow Terminals 1 2 3
+Hounslow West, Hatton Cross
+Hounslow Central, Hounslow West
+Osterley, Hounslow East
+Boston Manor, Osterley
+Northfields, Boston Manor
+South Ealing, Northfields
+Acton Town, South Ealing
+Heathrow Terminals 1 2 3, Heathrow Terminal 4
+Heathrow Terminals 1 2 3, Heathrow Terminal 5
+Acton Town, Ealing Common
+Ickenham, Hillingdon
+Ruislip, Ickenham
+Ruislip Manor, Ruislip
+Eastcote, Ruislip Manor
+Sudbury Town, Sudbury Hill
+Alperton, Sudbury Town
+Park Royal, Alperton
+North Ealing, Park Royal
+Ealing Common, North Ealing
+Rayners Lane, Eastcote
+Barons Court, Hammersmith (District)
+Hammersmith (District), Turnham Green
+Hyde Park Corner, Knightsbridge
+Green Park, Hyde Park Corner
+Piccadilly Circus, Green Park
+Gloucester Road, Earls Court
+Leicester Square, Piccadilly Circus
+Covent Garden, Leicester Square
+Hounslow East, Hounslow Central
+Turnham Green, Acton Town
+Holborn, Covent Garden
+Russell Square, Holborn
+Kings Cross St. Pancras, Russell Square
+South Kensington, Gloucester Road
+Beckenham Road, Beckenham Junction
+Avenue Road, Beckenham Road
+Birkbeck, Avenue Road
+Harrington Road, Birkbeck
+Arena, Harrington Road
+Woodside, Arena
+Blackhorse Lane, Woodside
+Addiscombe, Blackhorse Lane
+Arena, Elmers End
+Sandilands, Lloyd Park
+George Street, Church Street
+East Croydon, George Street
+King Henry's Drive, New Addington
+Fieldway, King Henry's Drive
+Addington Village, Fieldway
+Gravel Hill, Addington Village
+Coombe Lane, Gravel Hill
+Lloyd Park, Coombe Lane
+Sandilands, Addiscombe
+Lebanon Road, Sandilands
+Mitcham Junction, Beddington Lane
+Mitcham, Mitcham Junction
+Belgrave Walk, Mitcham
+Phipps Bridge, Belgrave Walk
+Morden Road, Phipps Bridge
+Merton Park, Morden Road
+Dundonald Road, Merton Park
+Wimbledon, Dundonald Road
+Beddington Lane, Therapia Lane
+Therapia Lane, Ampere Way
+East Croydon, Lebanon Road
+Wellesley Road, East Croydon
+West Croydon, Wellesley Road
+Centrale, West Croydon
+Reeves Corner, Centrale
+Wandle Park, Reeves Corner
+Waddon Marsh, Wandle Park
+Ampere Way, Waddon Marsh
+Church Street, Centrale
+Walthamstow Central, Blackhorse Road
+Seven Sisters, Finsbury Park
+Stockwell, Brixton
+Tottenham Hale, Seven Sisters
+Blackhorse Road, Tottenham Hale
+Finsbury Park, Highbury and Islington
+Warren Street, Oxford Circus
+Oxford Circus, Green Park
+Green Park, Victoria
+Kings Cross St. Pancras, Warren Street
+Victoria, Pimlico
+Pimlico, Vauxhall
+Vauxhall, Stockwell
+Highbury and Islington, Kings Cross St. Pancras
+Waterloo, Bank
